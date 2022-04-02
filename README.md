@@ -6,6 +6,7 @@
 
 # Видео демонстрация
 [![Демонстрация](https://i.ytimg.com/vi/5XL6KyEjlBo/maxresdefault.jpg)](https://www.youtube.com/watch?v=5XL6KyEjlBo)
+Для просмотра нажмите на превью выше
 
 # Что использовалось
 Во время разработки использовалась библиотека [glut](https://www.opengl.org/resources/libraries/glut/) . Был выбран данный вариант лишь по одной причине - огромное количество примеров и кроссплатформеность. Из главных минусов - очень устаревшая библиотека, но как вариант использование [freeGlut](http://freeglut.sourceforge.net/).
